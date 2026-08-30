@@ -1,5 +1,11 @@
 # @upstash/context7-mcp
 
+## 4.0.5
+
+### Patch Changes
+
+- 4e980f6: Increase the default HTTP subscription capacity and allow deployments to configure it with `MCP_MAX_SUBSCRIPTIONS`.
+
 ## 4.0.4
 
 ### Patch Changes
